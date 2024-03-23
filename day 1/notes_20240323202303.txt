@@ -1,0 +1,7 @@
+03.23 8:22 PM
+Task 1
+HTTP 1;
+More specifically, HTTP is the method computers and servers use to request and send information. The first usable version of HTTP was created in 1997. Because it went through several stages of development, this first version of HTTP was called HTTP/1.1. This version is still in use on the web.
+HTTP 2;
+It is a major revision of the HTTP network protocol used by the World Wide Web. It was derived from the earlier experimental SPDY protocol, originally developed by Google. HTTP/2 was developed by the HTTP Working Group of the Internet Engineering Task Force. 
+
