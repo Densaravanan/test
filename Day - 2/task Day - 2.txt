@@ -1,0 +1,4 @@
+A document is an object inside the window object and we use a document object for manipulation inside the document. 
+The first thing that gets loaded into the browser is the window and the properties related to that window are stored in the window object.
+Window object = like chrome page tab or browser page.
+Document object = Window page or browser page content, inside of the page.
