@@ -1,0 +1,24 @@
+.box-part{
+    background-color: lavender;
+    margin: 15px 20px 15px 20px;
+    padding: 20px 40px;
+}
+.fa-brands{
+    color: rgb(112, 114, 216);
+}
+.links{
+    text-decoration: underline;
+}
+.box{
+    padding: 20px 40px;
+}
+.fa-pinterest{
+    color: deeppink;
+}
+.fa-square-twitter{
+    color: lawngreen;
+}
+button{
+    color: aqua;
+    background-color:darkmagenta;
+}
